@@ -1,3 +1,12 @@
+# Group Members
+135860 Sitati Lewis
+135865 Omwenga Farajah
+112473 Ogutu Tracy
+112272 Sumlon Bahati
+110328 Alfred Mwaniki
+137255 Nicole Were
+120047 Wanje Kelvin
+
 # Logic Behind the Comments Counter
 ## Input
 The program takes in input code either as a file or as a user input
