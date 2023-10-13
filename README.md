@@ -1,4 +1,4 @@
-# Comments Counter
+# ICS 4211: Compiler Construction (Week Long Tasks)
 ## Group Contributions
 - 135860 Sitati Lewis
 - 135865 Omwenga Farajah
